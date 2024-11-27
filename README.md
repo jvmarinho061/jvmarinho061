@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo programação de forma geral
 - 🌱 Estudando banco de dados e typrescript
-- 😄 Pronouns: Ele/Dele
 
 
 <div style="display: inline_block"><br>
