@@ -5,7 +5,7 @@ Meu nome é João Vitor eu sou estudante e entusiasta de programação e suas ra
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Foco em **Desenvolvimento Front-End**, apaixonado por criar experiências web modernas.
+- 💻 Foco em **Mobile**, apaixonado por criar experiências modernas.
 - 🌱 Atualmente estudando **Flutter**.
 - 📫 Como me encontrar: **jvmarinhohoracio@outlook.com**
 - 🌍 Localização: **Natal - RN, Brasil**
