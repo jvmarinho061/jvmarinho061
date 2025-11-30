@@ -28,11 +28,11 @@ Meu nome é João Vitor eu sou estudante e entusiasta de programação e suas ra
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvmarinho061&show_icons=true&theme=radical" alt="seu-usuario" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jvmarinho061&show_icons=true&theme=radical" alt="jvmarinho061" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmarinho061&layout=compact&theme=radical" alt="seu-usuario" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmarinho061&layout=compact&theme=radical" alt="jvmarinho061" />
 </p>
 
 ---
