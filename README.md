@@ -39,13 +39,11 @@
 
 ---
 
-📊 GitHub Overview
+📊 Github Stats
 
 <div align="center">
 
-<img 
-  src="https://metrics.lecoq.io/jvmarinho061?template=classic&isocalendar=1&languages=1&achievements=1&followup=1&lines=1&repositories=1&config.timezone=America/Sao_Paulo" 
-/>
+<a href="https://github.com/jvmarinho061/github-readme-stats">
 
 </div>
 
@@ -54,7 +52,7 @@
 ## 🌐 Onde me encontrar
 
 🔗 **LinkedIn**  
-[João Vitor Marinho Horácio](https://www.linkedin.com/in/jo%C3%A3o-vitor-marinho-hor%C3%A1cio-0149382b8/)
+[João Vitor Marinho Horácio](https://www.linkedin.com/in/jo%C3%A3o-vitor-marinho-0149382b8/)
 
 ---
 
