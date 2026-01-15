@@ -39,13 +39,13 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Overview
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jvmarinho061&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmarinho061&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://metrics.lecoq.io/jvmarinho061?template=classic&isocalendar=1&languages=1&achievements=1&followup=1&lines=1&repositories=1&config.timezone=America/Sao_Paulo" 
+/>
 
 </div>
 
@@ -58,10 +58,8 @@
 
 ---
 
-## 🐍 Contribuições
+📈 Atividade no GitHub
 
-![snake animation](https://raw.githubusercontent.com/jvmarinho061/jvmarinho061/output/github-contribution-grid-snake.svg)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=jvmarinho061&style=flat-square&color=blueviolet)
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jvmarinho061&theme=tokyo-night&hide_border=true" 
+/>
