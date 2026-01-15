@@ -13,8 +13,8 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-- 📱 Foco em **Desenvolvimento Mobile**
-- 🌱 Em constante evolução com **Flutter**
+- 📱 Foco em **Desenvolvimento Mobile** com Flutter
+- 🌱 Em constante evolução com **Flutter** e **Firebase**
 - 💡 Curto código limpo, UI bem feita e boas práticas
 - 📍 **Natal — RN, Brasil**
 - 📫 **Contato:** `jvmarinhohoracio@outlook.com`
@@ -29,35 +29,44 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### **Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+### **Banco de Dados & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+### **Ferramentas de Desenvolvimento**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-📊 Github Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-(https://github-readme-stats.vercel.app/api?username=jvmarinho061&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jvmarinho061&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmarinho061&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Conecte-se comigo
 
-🔗 **LinkedIn**  
-[João Vitor Marinho Horácio](https://www.linkedin.com/in/jo%C3%A3o-vitor-marinho-0149382b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-marinho-0149382b8/)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jvmarinhohoracio@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvmarinho061)
 
 ---
 
-📈 Atividade no GitHub
+## 📈 Gráfico de Atividade
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jvmarinho061&theme=tokyo-night&hide_border=true" 
-/>
+<div align="center">
+
+![Gráfico de Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jvmarinho061&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
