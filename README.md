@@ -44,17 +44,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jvmarinho061)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmarinho061&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-marinho-0149382b8/)
